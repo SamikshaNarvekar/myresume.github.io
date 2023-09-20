@@ -1,0 +1,127 @@
+
+*
+{
+    font-family: 'poppins' sans-serif;
+}
+.myName
+{
+    margin-bottom: 30px;
+}
+.bg-custom-1
+{
+    /* background-color: rgb(254, 140, 58); */
+    background-color: rgba(254, 140, 58, 0.815);
+}
+.bg-custom-2{
+    background-color: #123692;
+    color:white;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+h1.top-heading
+{
+    border-left: 4px solid white;
+    padding-left: 19px;
+    text-transform: uppercase;
+    color: white;
+    font-size: 36px;
+}
+.top-menu .list-group-item
+{
+    text-transform: uppercase;
+    background-color: transparent;
+    border:none;
+    border-bottom: 2px solid white;
+}
+.top-menu .list-group-item a:hover{
+    color: rgb(40, 8, 126);
+}
+h3.top-heading1
+{
+    text-transform:uppercase;
+    border-left: 4px solid black;
+    padding-left: 19px;
+}
+.list-group-item 
+{
+    border-bottom: 2px solid black;
+}
+h3.top-heading2
+{
+    border-left: 4px solid black;
+    text-transform: uppercase;
+    padding-left: 19px;
+}
+h3 .top-heading8
+{
+    text-transform: uppercase;
+}
+
+h3.top-heading3
+{
+    border-left: 4px solid black;
+    text-transform: uppercase;
+    padding-left: 19px;
+}
+h3.top-heading5
+{
+    border-left: 4px solid white;
+    padding-left: 19px;
+}
+#idCertificate 
+{
+    /* background-color: #f7aa03b6; */
+    background-color: #ade7f0;
+}
+#idCertificate .top-heading6
+{
+    text-transform: uppercase;
+}
+#idCertificate h3{
+    border-left: 4px solid black;
+    padding-left: 19px;
+}
+#idCertificate h6{
+    margin-top: 30px;
+}
+#idproject
+{
+/* background-color: rgb(148, 163, 245); */
+background-color: #ecaf2bea;
+}
+#idDemoPages ul li
+{
+    border:none;
+}
+#idDemoPages h3{
+    border-left: 4px solid black;
+    text-transform:uppercase;
+    padding-left:19px;
+    margin-bottom: 30px;
+}
+#idDemoPages .card
+{
+    background-color: rgba(179, 255, 0, 0.338);
+}
+
+#idFooter
+{
+    font-size: 18px;
+
+}
+#idFooter h3
+{
+    text-transform: uppercase;    
+}
+#idEducation tbody 
+{
+    border: 1px solid rgba(8, 8, 8, 0.281);
+}
+
+
+#idEducation .list-group-item
+{
+    border-bottom: 1px solid rgba(190, 186, 186, 0.534);
+    border-radius: 5px;
+}
